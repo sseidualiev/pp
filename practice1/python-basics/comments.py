@@ -7,3 +7,9 @@ print("Cheers, Mate!")
 #written in
 #more than just one line
 print("Hello, KBTU!")
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Hello, KBTU!")
