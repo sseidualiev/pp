@@ -45,3 +45,8 @@ MyVariableName = "John"
 # Snake Case
 # Each word is separated by an underscore character:
 my_variable_name = "John"
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
