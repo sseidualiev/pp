@@ -57,3 +57,6 @@ print(b[-5:-2])
 
 a = "Hello, World!"
 print(a.upper())
+
+a = "Hello, World!"
+print(a.lower())
