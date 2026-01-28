@@ -14,3 +14,12 @@ print("Bigger is", bigger)
 a = 330
 b = 330
 print("A") if a > b else print("=") if a == b else print("B")
+
+x = 15
+y = 20
+max_value = x if x > y else y
+print("Maximum value:", max_value)
+
+username = ""
+display_name = username if username else "Guest"
+print("Welcome,", display_name)
